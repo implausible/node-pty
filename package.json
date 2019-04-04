@@ -1,5 +1,5 @@
 {
-  "name": "node-pty",
+  "name": "@axosoft/node-pty",
   "description": "Fork pseudoterminals in Node.JS",
   "author": {
     "name": "Daniel Imms"
